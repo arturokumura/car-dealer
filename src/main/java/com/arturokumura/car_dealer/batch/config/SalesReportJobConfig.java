@@ -1,7 +1,7 @@
-package com.arturokumura.car_dealer.config;
+package com.arturokumura.car_dealer.batch.config;
 
-import com.arturokumura.car_dealer.domain.SaleRecord;
-import com.arturokumura.car_dealer.writer.SalesReportWriter;
+import com.arturokumura.car_dealer.batch.domain.SaleRecord;
+import com.arturokumura.car_dealer.batch.writer.SalesReportWriter;
 import org.springframework.batch.core.job.Job;
 import org.springframework.batch.core.job.builder.JobBuilder;
 import org.springframework.batch.core.repository.JobRepository;

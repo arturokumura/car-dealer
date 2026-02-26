@@ -1,4 +1,4 @@
-package com.arturokumura.car_dealer.domain;
+package com.arturokumura.car_dealer.batch.domain;
 
 import java.math.BigDecimal;
 

@@ -1,7 +1,7 @@
-package com.arturokumura.car_dealer.processor;
+package com.arturokumura.car_dealer.batch.processor;
 
 
-import com.arturokumura.car_dealer.domain.SaleRecord;
+import com.arturokumura.car_dealer.batch.domain.SaleRecord;
 import org.springframework.batch.infrastructure.item.ItemProcessor;
 import org.springframework.stereotype.Component;
 

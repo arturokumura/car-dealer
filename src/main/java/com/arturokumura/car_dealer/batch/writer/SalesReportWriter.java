@@ -1,7 +1,7 @@
-package com.arturokumura.car_dealer.writer;
+package com.arturokumura.car_dealer.batch.writer;
 
-import com.arturokumura.car_dealer.domain.ReportLine;
-import com.arturokumura.car_dealer.domain.SaleRecord;
+import com.arturokumura.car_dealer.batch.domain.ReportLine;
+import com.arturokumura.car_dealer.batch.domain.SaleRecord;
 import org.springframework.batch.core.ExitStatus;
 import org.springframework.batch.core.listener.StepExecutionListener;
 import org.springframework.batch.core.step.StepExecution;

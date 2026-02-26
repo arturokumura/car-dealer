@@ -1,4 +1,4 @@
-package com.arturokumura.car_dealer.decider;
+package com.arturokumura.car_dealer.batch.decider;
 
 import java.io.IOException;
 import org.slf4j.Logger;

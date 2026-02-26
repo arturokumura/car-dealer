@@ -1,6 +1,6 @@
-package com.arturokumura.car_dealer.reader;
+package com.arturokumura.car_dealer.batch.reader;
 
-import com.arturokumura.car_dealer.domain.SaleRecord;
+import com.arturokumura.car_dealer.batch.domain.SaleRecord;
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.Comparator;
