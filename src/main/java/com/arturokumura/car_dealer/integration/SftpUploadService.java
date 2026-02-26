@@ -1,6 +1,4 @@
-package com.arturokumura.car_dealer.Integration;
-
-package br.com.devsuperior.car_dealer.integration;
+package com.arturokumura.car_dealer.integration;
 
 import java.io.File;
 import java.io.IOException;

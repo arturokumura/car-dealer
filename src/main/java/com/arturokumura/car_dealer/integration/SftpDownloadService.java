@@ -1,4 +1,4 @@
-package com.arturokumura.car_dealer.Integration;
+package com.arturokumura.car_dealer.integration;
 
 
 import java.io.File;

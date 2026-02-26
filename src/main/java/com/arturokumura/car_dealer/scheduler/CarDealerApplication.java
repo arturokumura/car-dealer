@@ -1,4 +1,4 @@
-package com.arturokumura.car_dealer;
+package com.arturokumura.car_dealer.scheduler;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
